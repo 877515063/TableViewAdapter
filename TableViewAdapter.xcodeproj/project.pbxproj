@@ -19,7 +19,6 @@
 		8F5A292C200EF50C00E99734 /* SubTableViewOne.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A292B200EF50C00E99734 /* SubTableViewOne.m */; };
 		8F5A292F200EFA3E00E99734 /* CustomCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A292E200EFA3E00E99734 /* CustomCell.m */; };
 		8F5A2932200F1AEE00E99734 /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A2931200F1AEE00E99734 /* BaseViewController.m */; };
-		8F5A2942200F517400E99734 /* NSDictionary+HttpJSON.m in Sources */ = {isa = PBXBuildFile; fileRef = 8F5A2941200F517300E99734 /* NSDictionary+HttpJSON.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -64,8 +63,6 @@
 		8F5A292E200EFA3E00E99734 /* CustomCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CustomCell.m; sourceTree = "<group>"; };
 		8F5A2930200F1AEE00E99734 /* BaseViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseViewController.h; sourceTree = "<group>"; };
 		8F5A2931200F1AEE00E99734 /* BaseViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseViewController.m; sourceTree = "<group>"; };
-		8F5A2940200F517300E99734 /* NSDictionary+HttpJSON.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "NSDictionary+HttpJSON.h"; sourceTree = "<group>"; };
-		8F5A2941200F517300E99734 /* NSDictionary+HttpJSON.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "NSDictionary+HttpJSON.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,8 +164,6 @@
 				8F5A292B200EF50C00E99734 /* SubTableViewOne.m */,
 				8F5A2930200F1AEE00E99734 /* BaseViewController.h */,
 				8F5A2931200F1AEE00E99734 /* BaseViewController.m */,
-				8F5A2940200F517300E99734 /* NSDictionary+HttpJSON.h */,
-				8F5A2941200F517300E99734 /* NSDictionary+HttpJSON.m */,
 			);
 			name = Base;
 			sourceTree = "<group>";
@@ -315,7 +310,6 @@
 				8F5A28FB200EC61500E99734 /* ViewController.m in Sources */,
 				8F5A28F8200EC61500E99734 /* AppDelegate.m in Sources */,
 				8F5A2932200F1AEE00E99734 /* BaseViewController.m in Sources */,
-				8F5A2942200F517400E99734 /* NSDictionary+HttpJSON.m in Sources */,
 				8F5A28F5200EC61500E99734 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -20,7 +20,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    NSProxy
+    
     [super viewDidLoad];
 //  tableView = [[BaseTableView alloc] initWithFrame:self.view.frame];
 //  tableView.mutableArray = self.array;
